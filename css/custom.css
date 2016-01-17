@@ -4,6 +4,15 @@ body {
   padding-top:50px;
 }
 
+a {
+  color: #e0e0e0;
+  text-decoration: underline;
+}
+a:hover {
+  color: #efefef;
+  text-decoration: none;
+}
+
 h1,
 h2,
 h3,
@@ -15,6 +24,7 @@ h6 {
   text-shadow: 1px 1px 0px #000;
 }
 
+/*Headers*/
 .header {
   height: 350px;
   padding-top: 130px;
@@ -23,4 +33,9 @@ h6 {
 
 .header-home {
   background-image: url('/img/header-bg-001.jpg');
+}
+
+/*Text Banners*/
+.banner {
+  padding-top: 80px;
 }
