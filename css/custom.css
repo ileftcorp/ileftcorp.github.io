@@ -17,6 +17,7 @@ h6 {
 header {
   height: 350px;
   padding-top: 150px;
+  background-position: center center;
 }
 
 header-home {
