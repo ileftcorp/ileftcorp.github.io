@@ -11,4 +11,14 @@ h5,
 h6 {
   font-family: 'Raleway';
   font-weight: 400;
+  text-shadow: 1px 1px 0px #000;
+}
+
+header {
+  height: 350px;
+  padding-top: 150px;
+}
+
+header-home {
+  background-image: url(/img/header-bg-001.jpg);
 }
