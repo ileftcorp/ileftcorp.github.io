@@ -14,12 +14,12 @@ h6 {
   text-shadow: 1px 1px 0px #000;
 }
 
-header {
+.header {
   height: 350px;
   padding-top: 150px;
   background-position: center center;
 }
 
-header-home {
+.header-home {
   background-image: url('/img/header-bg-001.jpg');
 }
