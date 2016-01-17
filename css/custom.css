@@ -4,15 +4,6 @@ body {
   padding-top:50px;
 }
 
-a {
-  color: #e0e0e0;
-  text-decoration: underline;
-}
-a:hover {
-  color: #efefef;
-  text-decoration: none;
-}
-
 h1,
 h2,
 h3,
